@@ -145,5 +145,3 @@ To avoid incurring ongoing costs:
    - Once all resources are deleted, you can safely delete the VPC.
 
 ---
-
-This enhanced README provides more context and details, making it easier for someone to understand and replicate your project. Let me know if you need any further modifications!
